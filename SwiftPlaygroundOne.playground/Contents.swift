@@ -27,3 +27,8 @@ var keolaFtwThird = " I'm hungry!"
 var keolaFtwFourth = keolaFtw + keolaFtwsecond + keolaFtwThird
 
 print(keolaFtwFourth)
+
+//Assignment #2 Introduction to True and False
+
+var appState = false
+print(appState)
