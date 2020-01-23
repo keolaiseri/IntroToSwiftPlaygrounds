@@ -32,3 +32,19 @@ print(keolaFtwFourth)
 
 var appState = false
 print(appState)
+
+//Part 5
+
+var numberOne = 5
+var numberTwo = 7
+
+var comparison = numberOne < numberTwo
+
+var firstVariable = "Keola is cool"
+
+var secondVariable = "Keola is cool"
+
+var bool = firstVariable ; secondVariable
+
+
+ 
