@@ -44,7 +44,7 @@ var firstVariable = "Keola is cool"
 
 var secondVariable = "Keola is cool"
 
-var bool = firstVariable ; secondVariable
+var bool = firstVariable == secondVariable
 
 
  
